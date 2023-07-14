@@ -1,1 +1,1 @@
-# Sumofintegrs-
+# Sumofintegrs-In this program, we use a Scanner object to read input from the user. We create an array numbers to store the 5 integers entered by the user. We also initialize a variable sum to keep track of the sum of the integers.
